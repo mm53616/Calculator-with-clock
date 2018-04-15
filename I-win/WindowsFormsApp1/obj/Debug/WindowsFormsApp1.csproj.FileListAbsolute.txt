@@ -1,0 +1,45 @@
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\source\repos\WindowsFormsApp1 — kopia\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\source\repos\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\mmant\source\repos\Projekt1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\mmant\source\repos\Projekt1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\source\repos\Projekt1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mmant\OneDrive\Dokumenty\Vsem\POSK\2017\Projekt1\timer\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
